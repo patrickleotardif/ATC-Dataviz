@@ -1,5 +1,10 @@
-This project involves transforming flight data structured by hand or taken from website to create a nice visualization.
+This Processing program creates a data visualization based on input data regarding aircraft in a sector over time.
 
-Feel free to use it to do similar things.
+Data was hand compiled from the following sources : LiveATC [www.liveatc.net] and FlightAware [flightaware.com].
+The schema found in the sample data can be understood using the "Aircraft" class in the "Classes.pde" file.
+Many thanks to Professor Jonathan Histon of the Systems Design Engineering Deparment at the University of Waterloo 
+for introducing me to this material during my time as an undergraduate research assistant in Winter 2010. 
 
-Oh, and it uses Processing.
+The final result ("result.jpg") adds text to the output of the original program.
+The fonts used are District Thin (title) [www.fontsquirrel.com/fonts/District-Thin] and Pigiarniq (remaining text) [www.fontsquirrel.com/fonts/Pigiarniq].
+
