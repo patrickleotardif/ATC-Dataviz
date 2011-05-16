@@ -1,6 +1,6 @@
 This Processing program creates a data visualization based on input data regarding aircraft in a sector over time.
 
-Data was hand compiled from the following sources : LiveATC [www.liveatc.net] and FlightAware [flightaware.com].
+Data was hand compiled from the following sources : LiveATC [www.liveatc.net] and FlightAware [www.flightaware.com].
 The schema found in the sample data can be understood using the "Aircraft" class in the "Classes.pde" file.
 Many thanks to Professor Jonathan Histon of the Systems Design Engineering Deparment at the University of Waterloo 
 for introducing me to this material during my time as an undergraduate research assistant in Winter 2010. 
